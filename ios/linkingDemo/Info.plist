@@ -26,7 +26,7 @@
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>CFBundleURLName</key>
-			<string>linkingDemo</string>
+			<string>mrmeg.example.linkingDemo</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>linkingDemo</string>
